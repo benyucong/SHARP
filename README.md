@@ -8,7 +8,6 @@ This repository provides the artifact for **Sharp**, a system for efficient best
 The codebase has been tested on Ubuntu 22.04, SUSE Linux Enterprise Server 15 SP5, and Red Hat Enterprise 9.5. For both `CEP/` and `MATCH_RECOGNIZE/`, enter each directory and install the necessary dependencies listed in `build_support/packages.sh`:
 
 ```sh
-# Ubuntu 22.04
 $ sudo build_support/packages.sh
 $ sudo apt install libboost-all-dev
 ```
