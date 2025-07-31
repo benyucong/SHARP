@@ -15,7 +15,7 @@ $ sudo apt install libboost-all-dev
 
 ### Download Data
 
-Download the required datasets from [synthetic dataset](https://drive.google.com/drive/folders/1_9XkUkKfz2OJObpYmy2pFOKn-DqcAKlu?usp=sharing), [real datasets](https://drive.google.com/drive/folders/13musleLNDuRnVAJNnCh4PoArSJB8nP_W?usp=sharing).  
+Download the required datasets from [synthetic dataset](https://drive.google.com/drive/folders/1_9XkUkKfz2OJObpYmy2pFOKn-DqcAKlu?usp=sharing), [real-world datasets](https://drive.google.com/drive/folders/13musleLNDuRnVAJNnCh4PoArSJB8nP_W?usp=sharing).  
 Create the following directories and unzip the datasets inside accordingly:
 
 ```sh
