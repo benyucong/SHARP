@@ -5,7 +5,7 @@ This repository provides the artifact for **Sharp**, a system for efficient best
 
 ## CEP and `MATCH_RECOGNIZE` Experiments
 
-Experiments are tested on **Ubuntu 22.04**. For both `CEP/` and `MATCH_RECOGNIZE/`, enter each directory and install the necessary dependencies listed in `build_support/packages.sh`:
+The codebase has been tested on Ubuntu 22.04, SUSE Linux Enterprise Server 15 SP5, and Red Hat Enterprise 9.5. For both `CEP/` and `MATCH_RECOGNIZE/`, enter each directory and install the necessary dependencies listed in `build_support/packages.sh`:
 
 ```sh
 # Ubuntu 22.04
@@ -15,7 +15,7 @@ $ sudo apt install libboost-all-dev
 
 ### Download Data
 
-Download the required datasets from [synthetic dataset](https://www.anonfile.la/17fa22), [real datasets](https://www.anonfile.la/77bb8f).  
+Download the required datasets from [synthetic dataset](https://drive.google.com/drive/folders/1_9XkUkKfz2OJObpYmy2pFOKn-DqcAKlu?usp=sharing), [real datasets](https://drive.google.com/drive/folders/13musleLNDuRnVAJNnCh4PoArSJB8nP_W?usp=sharing).  
 Create the following directories and unzip the datasets inside accordingly:
 
 ```sh
